@@ -1,7 +1,7 @@
 ---
 applications:
-- name: cf-nodejs2
+- name: cf-nodejs24
   memory: 192M
   instances: 1
   random-route: false
-  host: 23dadfdhdhdadada14ghgrewhbdkasfdddaadafsfs
+  host: 23dadfdhdhdadada14ghgrewhbdkasfdddaaffdafsfs
