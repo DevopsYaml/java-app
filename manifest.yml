@@ -3,5 +3,5 @@ applications:
 - name: cf-nodejs24
   memory: 192M
   instances: 1
-  random-route: false
-  host: 23dadfdhdhdadada14ghgrewhbdkasfdddaaffdafsfs
+  random-route: true
+  host: cf-new-host
